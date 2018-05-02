@@ -6,3 +6,9 @@ All my notes on data science
 
 ### Data Science Projects - best practices
 2. [How to build a dataanalysis portfolio](https://blog.udacity.com/2016/02/how-to-build-a-data-analysis-portfolio-that-will-get-you-hired.html)
+
+### Pandas 
+1. [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
+
+### Jupyter Tips 
+
