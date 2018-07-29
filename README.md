@@ -12,4 +12,5 @@ All my notes on data science
 
 ### Jupyter Tips 
 1. [Using Jupyter with Pachyderm](https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578)
+2. [Jupyter Notebooks - Tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
