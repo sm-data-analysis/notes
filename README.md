@@ -15,4 +15,5 @@ All my notes on data science
 2. [Jupyter Notebooks - Tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 3. [State of the Art - tools](https://md.ekstrandom.net/blog/2016/12/tools)
 4. [Notebook tutorial Basics](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+5. [Visualize python execute live](http://www.pythontutor.com/)
 
