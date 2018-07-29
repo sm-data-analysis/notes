@@ -11,4 +11,5 @@ All my notes on data science
 1. [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 
 ### Jupyter Tips 
+1. [Using Jupyter with Pachyderm](https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578)
 
