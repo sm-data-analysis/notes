@@ -32,3 +32,6 @@ coockiecutter https://github.com/drivendata/cookiecutter-data-science
 
 ### Deepseek-R1 - LLM with Reenforcement Learning
 1. [A visual guide to reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
+
+### Scaling LLMs
+[How to scale LLMs book](https://jax-ml.github.io/scaling-book/)
