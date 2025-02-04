@@ -24,3 +24,5 @@ coockiecutter https://github.com/drivendata/cookiecutter-data-science
 4. [Notebook tutorial Basics](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 5. [Visualize python execute live](http://www.pythontutor.com/)
 
+### Deepseek-R1 - LLM with Reenforcement Learning
+1. [A visual guide to reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
