@@ -1,6 +1,9 @@
 # notes
 All my notes on data science
 
+### A high level overview of LLMs by Andrej Karpathy
+[Into to large language models](https://youtu.be/zjkBMFhNj_g?si=1GT424k7ASLI_xkw)
+
 ### Data science project structure
 1. [Cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science/)
 
