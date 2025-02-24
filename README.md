@@ -4,6 +4,9 @@ All my notes on data science
 ### A high level overview of LLMs by Andrej Karpathy
 [Into to large language models](https://youtu.be/zjkBMFhNj_g?si=1GT424k7ASLI_xkw)
 
+### Llama model deepdive
+[Llama deepdive](https://github.com/therealoliver/Deepdive-llama3-from-scratch?tab=readme-ov-file#build-the-first-transformer-block)
+
 ### A curated list of datascience papers and other resources
 [awesome-llms](https://github.com/Hannibal046/Awesome-LLM)
 
